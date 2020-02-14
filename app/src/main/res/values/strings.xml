@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab03</string>
+    <string name="view1">count1</string>
+    <string name="view2">count2</string>
+    <string name="view3">count3</string>
+    <string name="view4">count4</string>
+</resources>
